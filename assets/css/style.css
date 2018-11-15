@@ -1,0 +1,49 @@
+.container {
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #f2f2f2;
+}
+
+.header {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.instructions {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.randNumMatch {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.winsLosses {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.crystals {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.userScore {
+    border: 2px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+
