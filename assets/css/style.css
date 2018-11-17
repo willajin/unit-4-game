@@ -1,9 +1,11 @@
 body {
     font-family: 'Raleway', sans-serif;
+    background-image: url("../images/black_thread.png");
+    background-repeat: repeat;
 }
 
 .jumbotron {
-    opacity: 1.0;
+    opacity: 0.5;
     text-align: center;
 }
 
@@ -19,6 +21,9 @@ body {
     letter-spacing: 2px;
 }
 
+.my-4 {
+    background-color: black;
+}
 .h5 {
     text-transform: uppercase;
     font-family: 'Scheherazade', serif;
@@ -27,32 +32,22 @@ body {
     letter-spacing: 2px;
 }
 
-.randNumMatch {
-    border: 2px solid lightgray;
-    padding: 10px;
-    margin: 10px;
-    background-color: white;
-}
-
-.winsLosses {
-    border: 2px solid lightgray;
-    padding: 10px;
-    margin: 10px;
-    background-color: white;
+.container {
+    color: lightgray;
+    letter-spacing: 2px;
+    font-family: 'Scheherazade', serif;
+    font-size: 24px;
+    text-align: center;
 }
 
 .crystals {
-    border: 2px solid lightgray;
     padding: 10px;
     margin: 10px;
-    background-color: white;
 }
 
-.userScore {
-    border: 2px solid lightgray;
-    padding: 10px;
-    margin: 10px;
-    background-color: white;
+.crystalImage {
+    border: 3px solid gray;
 }
+
 
 
